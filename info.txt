@@ -26,3 +26,13 @@ safely remove the lock files
 
 sudo dpkg --configure -a
 reconfigure the packages
+
+nano teste.html --> cria arquivo e entra
+touch teste.html --> somente cria arquivo
+	para salvar: ctrl X, Y, Enter
+
+cat teste.txt --> mostra apenas o conteudo
+vi file.txt [https://www.tutorialspoint.com/unix/unix-vi-editor.htm]
+	The command to quit out of vi is :q
+	To ignore this message, the command to quit out of vi without saving is :q!
+	The command to save the contents of the editor is :w. You can combine the above command with the quit command, or use :wq and return.
